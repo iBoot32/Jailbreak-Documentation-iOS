@@ -6,6 +6,10 @@ This method uses the [limera1n exploit](https://www.theiphonewiki.com/wiki/Limer
 
 This tool (for simplicity's sake) is a batch script. 
 
+This will all be implemented into an automated tool (by me) soon enough. This is just so there's some documentation on this process before I forget.
+
+I will document the tool line-by-line after its release, to make things even simpler. This is just what I can do with my time currently pre-release.
+
 EDIT: THIS 'CODE' IS PREPARED FOR THE iPhone3,3 (iPhone 4 CDMA), but it can be modified by changing the firmware keys and download links and stuff to fit your model.
 
 ***
